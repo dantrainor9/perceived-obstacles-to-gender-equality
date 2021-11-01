@@ -1,1 +1,2 @@
 # perceived-obstacles-to-gender-equality
+#This project was completed as part of a Makeover Monday challenge. This graph displays the different responses and percent of respondents organized by country. This graph is intended to give an overview look of what people perceive as the greatest barrier to gender equality around the world. Countries are represented by hue, while questions are listed on the x axis and % of respondents on the y axis
